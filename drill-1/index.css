@@ -1,0 +1,25 @@
+body {
+    margin:0;
+    background-color: darkblue
+    width:100px;
+    height:100vh;
+}
+header {
+    width:100%; 
+    height:20vh;
+    background-color:blanchedalmond
+}
+
+main{
+    background-color: black;
+    margin:0 auto;
+    width:75%;
+    height: 70vh;
+}
+footer {
+    background-color:salmon;
+    margin: 0 auto;
+    width:75;
+    height:10vh;
+
+}
